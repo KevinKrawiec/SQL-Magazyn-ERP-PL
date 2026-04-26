@@ -16,6 +16,8 @@ Baza składa się z następujących tabel:
 * `PRODUKTY` – katalog towarów z przypisanymi cenami i kodami EAN.
 * `STANY_MAGAZYNOWE` – informacja o ilościach i fizycznej lokalizacji towaru (regały).
 * `ZAMOWIENIA` – historia operacji magazynowych i sprzedaży.
+### Schemat relacji (ERD)
+![Schemat bazy danych](images/erd_schema.png)
 
 ## Cel nauki
 Baza została zaprojektowana tak, aby umożliwić ćwiczenie:
